@@ -1,0 +1,4 @@
+- Add styling _NB
+- Add *manage* section
+- Fix collection section
+- Deploy 
