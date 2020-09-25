@@ -2,3 +2,4 @@
 - Add *manage* section
 - Fix collection section
 - Deploy 
+- error db is locked
